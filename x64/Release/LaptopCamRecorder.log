@@ -1,0 +1,10 @@
+﻿  LaptopCamRecorder.cpp
+LaptopCamRecorder.cpp(21): warning C4244: '=': conversion from 'time_t' to 'float', possible loss of data
+LaptopCamRecorder.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+LaptopCamRecorder.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  6 of 152 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LaptopCamRecorder.vcxproj -> X:\Projekti\LaptopCamRecorder\LaptopCamRecorder\x64\Release\LaptopCamRecorder.exe
