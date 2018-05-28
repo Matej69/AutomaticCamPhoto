@@ -1,5 +1,7 @@
 ﻿  LaptopCamRecorder.cpp
-x:\projekti\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder.cpp(21): warning C4244: '=': conversion from 'time_t' to 'float', possible loss of data
-x:\projekti\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+x:\projekti\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder.cpp(22): warning C4244: '=': conversion from 'time_t' to 'float', possible loss of data
 x:\projekti\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+x:\projekti\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+x:\projekti\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+x:\projekti\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder\laptopcamrecorder.cpp(67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   LaptopCamRecorder.vcxproj -> X:\Projekti\LaptopCamRecorder\LaptopCamRecorder\x64\Debug\LaptopCamRecorder.exe
